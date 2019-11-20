@@ -29,7 +29,8 @@ Upload the debug log to a pastebin service such as [gist.github.com](https://gis
 
 * Debug Log:
 
-You should try to reproduce the issue with the default configuration. If you cannot, please reproduce with a minimal configuration, upload the config to a pastebin service, and link to it below.
+You should try to reproduce the issue with the default configuration (for instance by adding the option `-c /etc/sway/config`).
+If you cannot, please reproduce with a minimal configuration, upload the config to a pastebin service, and link to it below.
 
 * Configuration File:
 
